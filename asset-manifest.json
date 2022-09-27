@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorado-places/static/css/main.378a5347.css",
+    "main.js": "/colorado-places/static/js/main.3b6872bc.js",
+    "static/js/787.16b058a3.chunk.js": "/colorado-places/static/js/787.16b058a3.chunk.js",
+    "index.html": "/colorado-places/index.html",
+    "main.378a5347.css.map": "/colorado-places/static/css/main.378a5347.css.map",
+    "main.3b6872bc.js.map": "/colorado-places/static/js/main.3b6872bc.js.map",
+    "787.16b058a3.chunk.js.map": "/colorado-places/static/js/787.16b058a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378a5347.css",
+    "static/js/main.3b6872bc.js"
+  ]
+}
